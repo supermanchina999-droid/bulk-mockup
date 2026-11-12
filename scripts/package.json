@@ -1,0 +1,25 @@
+{
+  "name": "bulk-mockup",
+  "version": "1.0.0",
+  "description": "Batch Photoshop mockup generator - replace Smart Objects in bulk for print-on-demand, Etsy, and Shopify sellers",
+  "main": "src/bulk-mockup.jsx",
+  "keywords": [
+    "photoshop",
+    "mockup",
+    "batch",
+    "smart-object",
+    "print-on-demand",
+    "etsy",
+    "shopify",
+    "automation"
+  ],
+  "author": "Solo Founder",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/supermanchina999-droid/bulk-mockup"
+  },
+  "engines": {
+    "photoshop": ">=2020"
+  }
+}
